@@ -29,7 +29,7 @@ body{
     flex-direction: column;
     align-items: center;
     text-align: center;
-    padding: 2rem;
+    padding: 1.5rem;
 
 }
 
@@ -45,7 +45,7 @@ body{
 
 .principal img{
     border-radius: 1rem;
-    width: 90%;
+    width: 100%;
 }
 
 .principal__texto{
