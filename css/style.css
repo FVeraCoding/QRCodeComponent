@@ -22,7 +22,7 @@ body{
 
 .principal{
     height: auto;
-    width: 21%;
+    width: 20%;
     background-color: var(--White);
     border-radius: 2.5rem;
     display: flex;
