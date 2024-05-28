@@ -36,12 +36,9 @@ body{
 @media (max-width: 440px) { 
     .principal{
         width: 75%;
-        padding-top: 2rem;
-        padding-bottom: 2rem;
-        padding-left: 0rem;
-        padding-right: 0rem
     }
 }
+
 
 .principal img{
     border-radius: 1rem;
