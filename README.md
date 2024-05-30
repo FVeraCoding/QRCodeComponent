@@ -1,4 +1,4 @@
-# Frontend Mentor - Desafío Result Summary
+# Frontend Mentor - Desafío QR Code Component
 
 [Ver el proyecto desplegado aquí](https://sage-selkie-da15b5.netlify.app)
 
